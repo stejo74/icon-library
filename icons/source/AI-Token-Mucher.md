@@ -2,7 +2,7 @@
 
 ## Status
 
-Draft
+Approved
 
 ## Created by
 
@@ -30,7 +30,7 @@ Internal use only until approved.
 
 ## Usage guidance
 
-Do not use as an official product icon until approved.
+Do not use as an official icon until approved.
 
 ## Change history
 
