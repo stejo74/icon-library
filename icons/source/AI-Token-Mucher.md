@@ -14,7 +14,7 @@ Steve Jones
 
 ## Purpose
 
-Proposed reusable icon for usage.
+Reusable AI Token Muncher icon for usage.
 
 ## Source
 
